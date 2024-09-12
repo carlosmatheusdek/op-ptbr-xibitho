@@ -1,0 +1,17 @@
+{
+  "title": "<One Piece>",
+  "description": "<One Piece é uma série de mangá escrita e ilustrada por Eiichiro Oda.>",
+  "artist": "<Eiichiro Oda>",
+  "author": "<Eiichiro Oda>",
+  "cover": "<maxresdefault.jpg>",
+  "chapters": {
+    "<1126>": {
+      "title": "<Consolação>",
+      "volume": "<112>",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/<one-piece-1126-pt-br-xibitho-FdS08jD>/"
+      },
+      "last_updated": "1616368746"
+    },
+  }
+}
